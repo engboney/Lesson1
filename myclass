@@ -1,0 +1,11 @@
+public class vehicle{
+private String color;
+public String getcolor(){
+  return color;
+}
+
+
+pupblic void setColor (String c){
+  this.color
+}
+}
